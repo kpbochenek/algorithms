@@ -1,2 +1,6 @@
 # algorithms
-Solution for algorithm contests
+Solutions for algorithm contests
+
+# websites:
+codingame.com
+
