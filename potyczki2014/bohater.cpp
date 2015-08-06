@@ -8,17 +8,8 @@ typedef long long int ll;
 
 using namespace std;
 
-class Mns {
-public:
-  int dmg;
-  int restore;
-  int i;
-
-  Mns(int d, int r, int pi) {
-    this->dmg = d;
-    this->restore = r;
-    this->i = pi;
-  }
+struct Mns {
+  int dmg, restore, i;
 };
 
 bool myfunction (Mns *i,Mns *j) {
@@ -54,9 +45,9 @@ int main() {
   for (int i=0; i<monsters; ++i) {
     scanf("%d %d", &dmg, &restore);
     if (dmg < restore) {
-      enemies_plus.push_back(new Mns(dmg, restore, i));
+      enemies_plus.push_back(new Mns{dmg, restore, i});
     } else {
-      enemies_minus.push_back(new Mns(dmg, restore, i));
+      enemies_minus.push_back(new Mns{dmg, restore, i});
     }
   }
 
