@@ -10,6 +10,7 @@ using namespace std;
 
 struct Mns {
   int dmg, restore, i;
+  Mns(ll d, ll r, int ix): dmg(d), restore(r), i(ix) {}
 };
 
 bool myfunction (Mns *i,Mns *j) {
@@ -35,19 +36,19 @@ bool myfunction2 (Mns *i,Mns *j) {
 int main() {
   int monsters;
   ll hp;
-  int dmg, restore;
+  ll dmg, restore;
   
-  scanf("%d %d", &monsters, &hp);
+  scanf("%d %lld", &monsters, &hp);
 
   vector<Mns*> enemies_plus;
   vector<Mns*> enemies_minus;
   
   for (int i=0; i<monsters; ++i) {
-    scanf("%d %d", &dmg, &restore);
+    scanf("%lld %lld", &dmg, &restore);
     if (dmg < restore) {
-      enemies_plus.push_back(new Mns{dmg, restore, i});
+      enemies_plus.push_back(new Mns(dmg, restore, i));
     } else {
-      enemies_minus.push_back(new Mns{dmg, restore, i});
+      enemies_minus.push_back(new Mns(dmg, restore, i));
     }
   }
 
@@ -56,15 +57,18 @@ int main() {
 
   bool success = true;
   vector<int> result;
-  for (auto p : enemies_plus) {
-    if (hp - p->dmg < 0) {
+  for (int i=0; i<enemies_plus.size(); ++i) {
+    Mns *p = enemies_plus[i];
+    if (hp <= p->dmg) {
       success = false;
     }
     hp = hp - p->dmg + p->restore;
     result.push_back(p->i);
   }
-  for (auto m : enemies_minus) {
-    if (hp - m->dmg < 0) {
+  
+  for (int i=0; i<enemies_minus.size(); ++i) {
+    Mns *m = enemies_minus[i];
+    if (hp <= m->dmg) {
       success = false;
     }
     hp = hp - m->dmg + m->restore;
@@ -73,7 +77,8 @@ int main() {
 
   if (success) {
     printf("TAK\n");
-    for (auto x: result) printf("%d ", x+1);
+    for (int i=0; i<result.size(); ++i)
+      printf("%d ", result[i]+1);
     printf("\n");
   } else {
     printf("NIE\n");
