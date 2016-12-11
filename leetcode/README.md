@@ -6,7 +6,11 @@
 |   2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | Medium      | [link](./add_numbers.cpp)                   |
 |   3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium      |                                             |
 |   8 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)                                                      | Easy        | [link](./atoi.cpp)                          |
-|   9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                           | Easy        | [link](./palindrome_number.cpp)              |
+|   9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                           | Easy        | [link](./palindrome_number.cpp)             |
+|  11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                           | Medium      | [link](./container_with_most_water.cpp)     |
+|  12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                                                             | Medium      | [link](./integer_to_roman.cpp)              |
+|  13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | Easy        | [link](./roman_to_integer.cpp)              |
+|  14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   | Easy        | [link](./longest_common_prefix.cpp)         |
 |  22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                     | Medium      | [link](./generate_parentheses.cpp)          |
 |  35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | Medium      | [link](./search_insert_position.cpp)        |
 |  46 | [Permutations](https://leetcode.com/problems/permutations/)                                                                     | Medium      | [link](./permutations.cpp)                  |
