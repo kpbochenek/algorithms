@@ -1,7 +1,8 @@
 # Leetcode
 ------
 
-| #   | Title | Difficulty | 
-| --- |:-----:| ----------:|
-| 1 | Two Sum | Easy |
+|   # | Title                                             | Difficulty  | Solution              |
+| --- | :-----:                                           | ----------: | :-------:             |
+|   1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy        | [link](./two_sum.cpp) |
+|   2 |                                                   |             |                       |
 
