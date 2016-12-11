@@ -9,7 +9,8 @@
 |  35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | Medium      | [link](./search_insert_position.cpp) |
 |  46 | [Permutations](https://leetcode.com/problems/permutations/)                                                                     | Medium      | [link](./permutations.cpp)           |
 |  53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | Medium      | [link](./maximum_subarray.cpp)       |
-|     |                                                                                                                                 |             |                                      |
+|  62 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                     | Medium      | [link](./unique_paths.cpp)           |
+|  63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                                               | Medium      | [link](./unique_paths_2.cpp)          |
 
 
 
