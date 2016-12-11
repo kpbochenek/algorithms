@@ -6,6 +6,7 @@
 |   2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | Medium      | [link](./add_numbers.cpp)                   |
 |   3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium      |                                             |
 |   8 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)                                                      | Easy        | [link](./atoi.cpp)                          |
+|   9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                           | Easy        | [link](./palindrome_number.cpp)              |
 |  22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                     | Medium      | [link](./generate_parentheses.cpp)          |
 |  35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | Medium      | [link](./search_insert_position.cpp)        |
 |  46 | [Permutations](https://leetcode.com/problems/permutations/)                                                                     | Medium      | [link](./permutations.cpp)                  |
