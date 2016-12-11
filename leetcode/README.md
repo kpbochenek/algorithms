@@ -10,7 +10,10 @@
 |  46 | [Permutations](https://leetcode.com/problems/permutations/)                                                                     | Medium      | [link](./permutations.cpp)           |
 |  53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | Medium      | [link](./maximum_subarray.cpp)       |
 |  62 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                     | Medium      | [link](./unique_paths.cpp)           |
-|  63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                                               | Medium      | [link](./unique_paths_2.cpp)          |
+|  63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                                               | Medium      | [link](./unique_paths_2.cpp)         |
+|  94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                   | Medium      | [link](./binary_tree_inorder_traversal.cpp) |
+|  96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)                                         | Medium      | [link](./unique_bst.cpp)             |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                           | Easy        | [link](./same_tree.cpp)               |
 
 
 
