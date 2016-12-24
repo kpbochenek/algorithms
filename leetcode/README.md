@@ -16,6 +16,7 @@
 |  20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | Easy        | [link](./valid_parentheses.cpp)             |
 |  21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | Easy        | [link](./merge_two_sorted_lists.cpp)        |
 |  22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                     | Medium      | [link](./generate_parentheses.cpp)          |
+|  34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/)                                                         | Medium      | [link](./search_for_range.cpp)              |
 |  35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | Medium      | [link](./search_insert_position.cpp)        |
 |  46 | [Permutations](https://leetcode.com/problems/permutations/)                                                                     | Medium      | [link](./permutations.cpp)                  |
 |  53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | Medium      | [link](./maximum_subarray.cpp)              |
