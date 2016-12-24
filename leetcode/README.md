@@ -12,7 +12,8 @@
 |  13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | Easy        | [link](./roman_to_integer.cpp)              |
 |  14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   | Easy        | [link](./longest_common_prefix.cpp)         |
 |  15 | [3Sum](https://leetcode.com/problems/3sum/)                                                                                     | Medium      | [link](./3sum.cpp)                          |
-|  17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                                                                                       | Medium      | [link](./combination_phone_number.cpp)      |
+|  17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                   | Medium      | [link](./combination_phone_number.cpp)      |
+|  20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | Easy        | [link](./valid_parentheses.cpp)             |
 |  22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                     | Medium      | [link](./generate_parentheses.cpp)          |
 |  35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | Medium      | [link](./search_insert_position.cpp)        |
 |  46 | [Permutations](https://leetcode.com/problems/permutations/)                                                                     | Medium      | [link](./permutations.cpp)                  |
