@@ -19,6 +19,7 @@
 |  34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/)                                                         | Medium      | [link](./search_for_range.cpp)              |
 |  35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | Medium      | [link](./search_insert_position.cpp)        |
 |  46 | [Permutations](https://leetcode.com/problems/permutations/)                                                                     | Medium      | [link](./permutations.cpp)                  |
+|  49 | [Group Anagrams](https://leetcode.com/problems/anagrams/)                                                                       | Medium      | [link](./group_anagrams.cpp)                |
 |  50 | [Pow(x,n)](https://leetcode.com/problems/powx-n/)                                                                               | Medium      | [link](./pow.cpp)                           |
 |  53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | Medium      | [link](./maximum_subarray.cpp)              |
 |  62 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                     | Medium      | [link](./unique_paths.cpp)                  |
