@@ -14,6 +14,7 @@
 |  15 | [3Sum](https://leetcode.com/problems/3sum/)                                                                                     | Medium      | [link](./3sum.cpp)                          |
 |  17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                   | Medium      | [link](./combination_phone_number.cpp)      |
 |  20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | Easy        | [link](./valid_parentheses.cpp)             |
+|  21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | Easy        | [link](./merge_two_sorted_lists.cpp)        |
 |  22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                     | Medium      | [link](./generate_parentheses.cpp)          |
 |  35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | Medium      | [link](./search_insert_position.cpp)        |
 |  46 | [Permutations](https://leetcode.com/problems/permutations/)                                                                     | Medium      | [link](./permutations.cpp)                  |
