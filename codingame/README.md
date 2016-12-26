@@ -38,6 +38,6 @@
 |  17 | [Mars Lander](https://www.codingame.com/training/medium/mars-lander-episode-2)                     | TODO!!                                   |
 
 ## HARD
-|   # | Title                                                                                              | Solution                                 |
-| --- | :-----:                                                                                            | :-------:                                |
-|   1 | |  |
+| #   | Title                                                                    | Solution                         |
+| --- | :-----:                                                                  | :-------:                        |
+| 1   | [Roller Coaster](https://www.codingame.com/training/hard/roller-coaster) | [link](./hard/roller-coaster.py) |
