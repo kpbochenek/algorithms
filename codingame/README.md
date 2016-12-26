@@ -17,6 +17,11 @@
 |  10 | [MIME Type](https://www.codingame.com/training/easy/mime-type)                   | [link](./easy/mime-type.py)      |
 
 ## MEDIUM
-| #   | Title                                                                            | Solution                              |
-| --- | :-----:                                                                          | :-------:                             |
-| 1   | [Telephone Numbers](https://www.codingame.com/training/medium/telephone-numbers) | [link](./medium/telephone-numbers.py) |
+|   # | Title                                                                                    | Solution                                 |
+| --- | :-----:                                                                                  | :-------:                                |
+|   1 | [Telephone Numbers](https://www.codingame.com/training/medium/telephone-numbers)         | [link](./medium/telephone-numbers.py)    |
+|   2 | [Bender](https://www.codingame.com/training/medium/bender-episode-1)                     | [link](./medium/bender.py)               |
+|   3 | [Stock Exchange Losses](https://www.codingame.com/training/medium/stock-exchange-losses) | [link](./medium/stock-exchange-loses.py) |
+|   4 | [The Gitf](https://www.codingame.com/training/medium/the-gift)                           | [link](./medium/the-gift.py)             |
+|   5 | [War](https://www.codingame.com/training/medium/winamax-battle)                          | [link](./medium/war.py)                  |
+|   6 | [Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation)         | [link](./medium/mayan-calculation.py)    |
