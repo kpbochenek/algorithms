@@ -38,6 +38,11 @@
 |  17 | [Mars Lander](https://www.codingame.com/training/medium/mars-lander-episode-2)                     | TODO!!                                   |
 
 ## HARD
-| #   | Title                                                                    | Solution                         |
-| --- | :-----:                                                                  | :-------:                        |
-| 1   | [Roller Coaster](https://www.codingame.com/training/hard/roller-coaster) | [link](./hard/roller-coaster.py) |
+|   # | Title                                                                          | Solution                               |
+| --- | :-----:                                                                        | :-------:                              |
+|   1 | [Roller Coaster](https://www.codingame.com/training/hard/roller-coaster)       | [link](./hard/roller-coaster.py)       |
+|   2 | [Bender](https://www.codingame.com/training/hard/bender-episode-2)             | [link](./hard/bender-money-machine.py) |
+|   3 | [Surface](https://www.codingame.com/training/hard/surface)                     | [link](./hard/surface.py)              |
+|   4 | [Super Computer](https://www.codingame.com/training/hard/super-computer)       | [link](./hard/super-computer.py)       |
+|   5 | [Skynet](https://www.codingame.com/training/hard/skynet-revolution-episode-2)  | [link](./hard/skynet-strikes-back.py)  |
+|   6 | [Genome Sequencing](https://www.codingame.com/training/hard/genome-sequencing) | [link](./hard/genome-sequence.py)      |
