@@ -35,7 +35,7 @@
 |  14 | [Scrabble](https://www.codingame.com/training/medium/scrabble)                                     | [link](./medium/scrabble.py)             |
 |  15 | [The Last Crusade](https://www.codingame.com/training/medium/the-last-crusade-episode-1)           | [link](./medium/indiana-level1.py)       |
 |  16 | [Shadows of the Knight](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1) | [link](./medium/heat-detector.py)        |
-|  17 | [Mars Lander](https://www.codingame.com/training/medium/mars-lander-episode-2)                     | TODO!!                                   |
+|  17 | [Mars Lander](https://www.codingame.com/training/medium/mars-lander-episode-2)                     | [link](./medium/mars-lander.py)          |
 
 ## HARD
 |   # | Title                                                                          | Solution                               |
